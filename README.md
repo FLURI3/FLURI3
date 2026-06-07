@@ -43,13 +43,6 @@
 | **[Uptime Monitor](https://github.com/FLURI3/uptime-monitor)** | Асинхронный мониторинг сервисов, история задержек и Telegram-уведомления |
 | **[Blackjack Telegram Bot](https://github.com/FLURI3/blackjack-telegram-bot)** | Stateful Telegram-бот с игровой логикой, рейтингом и таблицей лидеров |
 
-<div align="center">
-
-[![NADO](https://github-readme-stats.vercel.app/api/pin/?username=FLURI3&repo=nado-messenger&theme=transparent&hide_border=true)](https://github.com/FLURI3/nado-messenger)
-[![MikroTik VPN Panel](https://github-readme-stats.vercel.app/api/pin/?username=FLURI3&repo=mikrotik-vpn-panel&theme=transparent&hide_border=true)](https://github.com/FLURI3/mikrotik-vpn-panel)
-
-</div>
-
 ---
 
 ### 🤍 𝗦𝘁𝘆𝗹𝗲
