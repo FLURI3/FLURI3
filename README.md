@@ -1,38 +1,72 @@
+<!-- FLURI — GitHub Profile Poster -->
 <div align="center">
+  
+# 𝙁 𝙇 𝙔 𝙐 𝙍 𝙊 𝙂 𝙍 𝘼 𝙁 𝙄 𝙔 𝘼  
+**𝖥𝗋𝗈𝗇𝗍𝖾𝗇𝖽 / 𝖥𝗎𝗅𝗅-𝖲𝗍𝖺𝖼𝗄 / 𝖯𝗋𝗈𝖽𝗎𝖼𝗍 𝖬𝖺𝗇𝖺𝗀𝖾𝗋 / 𝖳𝖾𝖺𝗆 𝖫𝖾𝖺𝖽 / 𝖯𝗌𝗒𝖼𝗁𝗈𝗅𝗈𝗀𝗂𝗌𝗍**
 
-# FLURI
-
-**Full-stack developer building practical products, real-time systems, and automation tools**
-
-[Telegram](https://t.me/FLuRiOFF) · [YouTube](https://youtube.com/@FluRi3game)
+<a href="https://ibb.co/k2PQzkJF"><img src="https://i.ibb.co/pjkJNGQp/image-Photoroom-4.png" alt="image-Photoroom-4" border="0"></a>
 
 </div>
 
-## Selected Projects
+---
 
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| [NADO Messenger](https://github.com/FLURI3/nado-messenger) | Real-time messaging, authentication, presence, resilient WebSocket connections, containerized deployment | React, TypeScript, FastAPI, PostgreSQL, Redis, Docker, Nginx |
-| [Student Helper](https://github.com/FLURI3/studhelper) | Document processing and student workflow automation | React, Python, AI tooling |
-| [FinanceFlow](https://github.com/FLURI3/financeflow) | Cross-platform mobile product architecture and typed state management | React Native, TypeScript, Redux Toolkit, Firebase |
-| [Uptime Monitor](https://github.com/FLURI3/uptime-monitor) | Async service monitoring, latency history, dashboard, and alerts | Python, asyncio, aiohttp, Flask, SQLite |
-| [MikroTik VPN Panel](https://github.com/FLURI3/mikrotik-vpn-panel) | Device-level VPN routing and network automation for a self-hosted gateway | Python, RouterOS, iptables, ipset, dnsmasq |
-| [TYS](https://github.com/FLURI3/TYS) | A focused service for transferring liked tracks between music platforms | Python |
-| [Blackjack Telegram Bot](https://github.com/FLURI3/blackjack-telegram-bot) | Stateful Telegram interactions, game logic, statistics, and leaderboards | Python, Aiogram |
+#### :book: 𝗣𝗿𝗼𝗳𝗶𝗹𝗲
+##### • Рᴀɜᴩᴀбᴀᴛыʙᴀю инᴛᴇᴩɸᴇйᴄы и ᴄиᴄᴛᴇʍы, ᴦдᴇ ᴧᴏᴦиᴋᴀ и ᴨᴄихᴏᴧᴏᴦия ʙᴄᴛᴩᴇчᴀюᴛᴄя  
+##### • Любᴧю ᴨᴩᴏᴄᴛыᴇ ɸᴏᴩʍы, ᴄиᴧьныᴇ ᴄʍыᴄᴧы и ᴛиɯину чёᴩнᴏ-бᴇᴧᴏᴦᴏ  
+##### • Сᴏɜдᴀю ᴨᴩᴏдуᴋᴛы ᴏᴛ идᴇи и ᴀᴩхиᴛᴇᴋᴛуᴩы дᴏ Docker, CI и ᴩᴀɜʙёᴩᴛыʙᴀния
 
-## What I Work With
+---
 
-- **Frontend:** React, TypeScript, React Native, responsive interfaces
-- **Backend:** Python, FastAPI, Flask, Node.js, REST APIs, WebSockets
-- **Data:** PostgreSQL, SQLite, Redis, Firebase
-- **Delivery:** Docker, Docker Compose, Nginx, GitHub Actions
-- **Product:** prototyping, feature design, documentation, and iteration
+### :toolbox: 𝗦𝗸𝗶𝗹𝗹𝘀
+ 
+| Язык / Технология | Практический уровень |
+|--------------------|---------|
+| **JavaScript / TypeScript / React** | ██████████ |
+| **Python / FastAPI / Flask / Aiogram** | █████████░ |
+| **PostgreSQL / Redis / WebSocket** | ████████░░ |
+| **Docker / Nginx / Linux / CI** | ████████░░ |
+| **Java / Android / React Native** | ███████░░░ |
+| **Team Leading / Product** | ████████░░ |
 
-## Current Focus
+###### *(Визуальная карта моего текущего опыта, а не попытка измерить знания в процентах.)*
 
-I am improving project reliability, automated checks, deployment workflows, and public technical documentation. I enjoy turning an idea into a working product that can be demonstrated, deployed, and maintained.
+---
 
-## Contact
+### :computer: 𝗦𝗲𝗹𝗲𝗰𝘁𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-- Telegram: [@FLuRiOFF](https://t.me/FLuRiOFF)
-- Discord: `flur1`
+| Проект | Что внутри |
+|--------|------------|
+| **[NADO Messenger](https://github.com/FLURI3/nado-messenger)** | Real-time мессенджер: React, FastAPI, WebSocket, PostgreSQL, Redis, Docker, Nginx |
+| **[MikroTik VPN Panel](https://github.com/FLURI3/mikrotik-vpn-panel)** | Управление VPN-маршрутизацией устройств: RouterOS, iptables, ipset, dnsmasq |
+| **[Student Helper](https://github.com/FLURI3/studhelper)** | Инструменты для студентов, автоматизация и обработка документов |
+| **[FinanceFlow](https://github.com/FLURI3/financeflow)** | Кроссплатформенный финансовый MVP на React Native и TypeScript |
+| **[Uptime Monitor](https://github.com/FLURI3/uptime-monitor)** | Асинхронный мониторинг сервисов, история задержек и Telegram-уведомления |
+| **[Blackjack Telegram Bot](https://github.com/FLURI3/blackjack-telegram-bot)** | Stateful Telegram-бот с игровой логикой, рейтингом и таблицей лидеров |
+
+<div align="center">
+
+[![NADO](https://github-readme-stats.vercel.app/api/pin/?username=FLURI3&repo=nado-messenger&theme=transparent&hide_border=true)](https://github.com/FLURI3/nado-messenger)
+[![MikroTik VPN Panel](https://github-readme-stats.vercel.app/api/pin/?username=FLURI3&repo=mikrotik-vpn-panel&theme=transparent&hide_border=true)](https://github.com/FLURI3/mikrotik-vpn-panel)
+
+</div>
+
+---
+
+### 🤍 𝗦𝘁𝘆𝗹𝗲
+> **Чёрно-белое. Честное.**  
+> Мне ближе символ, чем шум.  
+> Белый — как идея. Чёрный — как границы кода.
+
+---
+
+### :link: 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀
+Telegram : ``FLuRiOFF``  
+Discord : ``flur1``  
+[GitHub Projects](https://github.com/FLURI3?tab=repositories) · [Discord server](https://discord.gg/psihdispanser3) · [Steam](https://steamcommunity.com/id/Slavo4ka444) · [YouTube](https://youtube.com/@FluRi3game)
+
+---
+<div align="center">
+    
+<a href="https://ibb.co/ycfBfBpp"><img src="https://i.ibb.co/q3yFyFCC/image.png" alt="image" border="0"></a>
+    
+</div>
