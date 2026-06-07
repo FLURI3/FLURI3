@@ -16,6 +16,7 @@
 | [Student Helper](https://github.com/FLURI3/studhelper) | Document processing and student workflow automation | React, Python, AI tooling |
 | [FinanceFlow](https://github.com/FLURI3/financeflow) | Cross-platform mobile product architecture and typed state management | React Native, TypeScript, Redux Toolkit, Firebase |
 | [Uptime Monitor](https://github.com/FLURI3/uptime-monitor) | Async service monitoring, latency history, dashboard, and alerts | Python, asyncio, aiohttp, Flask, SQLite |
+| [MikroTik VPN Panel](https://github.com/FLURI3/mikrotik-vpn-panel) | Device-level VPN routing and network automation for a self-hosted gateway | Python, RouterOS, iptables, ipset, dnsmasq |
 | [TYS](https://github.com/FLURI3/TYS) | A focused service for transferring liked tracks between music platforms | Python |
 | [Blackjack Telegram Bot](https://github.com/FLURI3/blackjack-telegram-bot) | Stateful Telegram interactions, game logic, statistics, and leaderboards | Python, Aiogram |
 
